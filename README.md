@@ -1,2 +1,2 @@
 # spring-security-auth
-Authentication using Spring Security
+Service authentication & authorization using Spring Security
